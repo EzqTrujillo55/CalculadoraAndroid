@@ -146,6 +146,10 @@ Previo a los cálculos es importante indicar la lógica que se maneja para la in
     RAIZ -> sqrt(num1)
     ```
     
+
+## Preview 
+
+
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
@@ -158,6 +162,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Gabriela García** - *Codificación, Investigación, Documentación* - [villanuevand](https://github.com/villanuevand)
-* **Pablo Trujillo** - *Codificación, Investigación, Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Gabriela García** - *Codificación, Investigación, Documentación* - [villanuevand](https://github.com/Gabiita)
+* **Pablo Trujillo** - *Codificación, Investigación, Documentación* - [fulanitodetal](https://github.com/EzqTrujillo55)
 
