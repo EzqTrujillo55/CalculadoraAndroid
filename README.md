@@ -148,7 +148,7 @@ Previo a los cálculos es importante indicar la lógica que se maneja para la in
     
 
 ## Preview 
-
+![Screenshot](preview.png)
 
 ## Construido con 🛠️
 
