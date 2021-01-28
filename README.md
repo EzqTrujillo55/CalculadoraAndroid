@@ -162,6 +162,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Gabriela García** - *Codificación, Investigación, Documentación* - [villanuevand](https://github.com/Gabiita)
-* **Pablo Trujillo** - *Codificación, Investigación, Documentación* - [fulanitodetal](https://github.com/EzqTrujillo55)
+* **Gabriela García** - *Codificación, Investigación, Documentación* - [Gabiita](https://github.com/Gabiita)
+* **Pablo Trujillo** - *Codificación, Investigación, Documentación* - [EzqTrujillo55](https://github.com/EzqTrujillo55)
 
